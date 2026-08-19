@@ -99,13 +99,7 @@ I'm constantly learning, experimenting with new ideas, and turning them into pra
 
 <br>
 
-<a href="./assets/badges/CV.pdf" download="Pritam_Nandi_CV.pdf">
-  <img
-    src="./assets/badges/CV.png"
-    alt="📄 CV / Resume"
-    width="150"
-  >
-</a>
+[<img src="assets/badges/CV.png" alt="📄 CV / Resume" width="150">](assets/badges/CV.pdf)
 
 ## <sub><picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" valign="top" alt="🌐"></picture></sub>  Socials
 
