@@ -99,7 +99,9 @@ I'm constantly learning, experimenting with new ideas, and turning them into pra
 
 <br>
 
-[<img src="assets/badges/CV.png" alt="📄 CV / Resume" width="150">](assets/badges/CV.pdf)
+<a href="assets/badges/CV.pdf">
+  <img src="https://img.shields.io/badge/📄%20Download%20CV-000000?style=for-the-badge" alt="CV / Resume">
+</a>
 
 ## <sub><picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" valign="top" alt="🌐"></picture></sub>  Socials
 
