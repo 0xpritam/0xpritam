@@ -126,4 +126,7 @@ I'm constantly learning, experimenting with new ideas, and turning them into pra
 </div>
 
 
+
+<div align="center">
 <sup>Thanks for visiting my profile! 👋</sup>
+</div>
