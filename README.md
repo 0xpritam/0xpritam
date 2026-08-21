@@ -12,7 +12,7 @@ I'm a Computer Science & Engineering student who loves building **real-world pro
 I enjoy working across the full stack — from designing responsive interfaces to building backend APIs, databases, authentication systems, real-time applications, and AI-powered features.
 
 I'm constantly learning, experimenting with new ideas, and turning them into practical projects. 🚀
-
+🔗 [My Portfolio](https://oxpritam.framer.ai/)
 <br>
 
 <picture>
