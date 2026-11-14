@@ -28,6 +28,8 @@ I'm constantly learning, experimenting with new ideas, and turning them into pra
 <div align="left">
 
   <a href="https://www.java.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java">
+
     <img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="java logo" width="50" height="50">
   </a>&nbsp;
 
