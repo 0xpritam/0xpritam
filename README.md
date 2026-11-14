@@ -25,76 +25,75 @@ I'm constantly learning, experimenting with new ideas, and turning them into pra
 
 ## <sub><picture><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="⚡"></picture></sub>  Languages & Tools
 
+
 <div align="left">
 
   <a href="https://www.java.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java">
-
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="java logo" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java">
   </a>&nbsp;
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="javascript logo" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">
   </a>&nbsp;
 
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python logo" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python">
   </a>&nbsp;
 
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="c++ logo" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++">
   </a>&nbsp;
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="html logo" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5">
   </a>&nbsp;
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="css logo" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3">
   </a>&nbsp;
 
   <a href="https://react.dev/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react logo" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React">
   </a>&nbsp;
 
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="nextjs logo" width="50" height="50">
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js">
   </a>&nbsp;
 
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" alt="tailwindcss logo" width="50" height="50">
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS">
   </a>&nbsp;
 
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="nodejs logo" width="50" height="50">
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js">
   </a>&nbsp;
 
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=express" alt="express logo" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js">
   </a>&nbsp;
 
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="typescript logo" width="50" height="50">
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript">
   </a>&nbsp;
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="mysql logo" width="50" height="50">
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL">
   </a>&nbsp;
 
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" alt="mongodb logo" width="50" height="50">
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB">
   </a>&nbsp;
 
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="postgresql logo" width="50" height="50">
+  <a href="https://www.postgresql.org/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL">
   </a>&nbsp;
 
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker logo" width="50" height="50">
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker">
   </a>&nbsp;
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git logo" width="50" height="50">
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git">
   </a>
 
 </div>
@@ -107,25 +106,35 @@ I'm constantly learning, experimenting with new ideas, and turning them into pra
 
 ## <sub><picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" valign="top" alt="🌐"></picture></sub>  Socials
 
+
+
 <div align="left">
 
   <a href="https://x.com/Pritamnandi8918" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=x" width="50" height="50" alt="discord">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v15/icons/x.svg"
+         width="60" height="60" alt="X"
+         style="filter: invert(1);">
   </a>&nbsp;
 
   <a href="https://www.linkedin.com/in/pritamnandi-dev/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="50" height="50" alt="linkedin">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="60" height="60" alt="LinkedIn">
   </a>&nbsp;
 
   <a href="https://www.instagram.com/pritamnandi003/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" width="50" height="50" alt="instagram">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/instagram.svg"
+         width="60" height="60" alt="Instagram"
+         style="color:#E4405F">
   </a>&nbsp;
 
   <a href="mailto:pritamn016@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="50" height="50" alt="gmail">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335"
+         width="60" height="60" alt="Gmail">
   </a>
 
 </div>
+
+
 
 
 
