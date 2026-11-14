@@ -94,7 +94,17 @@ I'm constantly learning, experimenting with new ideas, and turning them into pra
 
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git">
-  </a>
+  </a>&nbsp;
+
+<a href="https://docs.aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws"
+       width="55"
+       height="55"
+       alt="AWS">
+</a>
+
+
+
 
 </div>
 
